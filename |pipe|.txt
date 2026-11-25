@@ -1,0 +1,9 @@
+This is where Linux becomes powerful
+
+Suppose you want to find people older than 25 and display their names:
+
+cat users.txt | awk '$2 > 25 {print $1}'
+
+or better:
+
+awk '$2 > 25 {print $1}' users.txt
