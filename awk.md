@@ -303,5 +303,5 @@ Once you understand `$1`, `$2`, `$NF` and the basic `CONDITION {ACTION}` structu
 
 `awk` helps you extract and process information within those lines.
 
--- Courtesy of ChatGPT: `awk`
+-- Courtesy of ChatGPT
 
