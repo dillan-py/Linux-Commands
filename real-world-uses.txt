@@ -1,0 +1,8 @@
+Example A. Find all log files:
+
+find /var/log -type f -name "*.log"
+
+
+Example B: Search logs for errors
+
+grep -i "error" /var/log/syslog
