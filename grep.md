@@ -1,7 +1,3 @@
-markdown
-
-````markdown
-
 # Courtesy of ChatGPT: `grep`
 
 The `grep` command is used to search for specific words or patterns inside files.
