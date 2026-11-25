@@ -1,0 +1,34 @@
+This is where most beginners start getting confused.
+
+But I want you to approach awk differently.
+
+# Think of awk as a tool that reads information in columns.
+
+Imagine you have this file called users.txt:
+John 25 London
+Sarah 30 Birmingham
+David 22 Manchester
+James 28 Leeds
+
+Each line contains three columns
+
+Now suppose you only want to display the names:
+
+user@machine$ awk '{print $1}' users.txt
+John
+Sarah
+David
+James
+
+What is happening?
+
+Let's break it down:
+awk = Start using awk.
+
+{ } = Instructions for awk.
+
+print = Display something.
+
+$1 = First column.
+
+users.txt = The file to read.
