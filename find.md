@@ -1,6 +1,3 @@
-\ Courtesy of ChatGPT: `find`
-/b
-
 The `find` command is used to search for files and directories on a Linux system.
 
 ## Basic Syntax
@@ -73,3 +70,6 @@ find /home/user -type d
 Notice that you don't need to memorise everything.
 
 You just need to understand what each building block does.
+
+
+-- Courtesy of ChatGPT
