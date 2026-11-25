@@ -1,0 +1,18 @@
+Searching inside files
+
+Say for example you want to find every line containing the word 'failed'
+
+grep "failed" auth.log
+
+Ignore uppercase and lowercase:
+grep -i "error" system.log:
+
+This also finds:
+ERROR
+Error
+error
+
+-c   Count matching lines
+-n   Show line numbers
+-r   Search recursively through directories
+
