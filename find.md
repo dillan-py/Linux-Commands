@@ -1,4 +1,5 @@
-\\ Courtesy of ChatGPT: `find`
+\ Courtesy of ChatGPT: `find`
+/b
 
 The `find` command is used to search for files and directories on a Linux system.
 
