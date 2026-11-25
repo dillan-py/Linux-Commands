@@ -1,9 +1,3 @@
-markdown
-
-````markdown
-
-# Courtesy of ChatGPT: `awk`
-
 The `awk` command is used to read, process, filter and display information from files.
 
 Think of `awk` as a tool that reads information in columns.
@@ -308,4 +302,6 @@ Once you understand `$1`, `$2`, `$NF` and the basic `CONDITION {ACTION}` structu
 `grep` helps you find matching lines.
 
 `awk` helps you extract and process information within those lines.
-````
+
+-- Courtesy of ChatGPT: `awk`
+
